@@ -8,7 +8,7 @@ import run.halo.app.core.extension.content.Snapshot;
 
 /**
  * @author guqing
- * @since 2.0.0
+ * @since 2.0.0a
  */
 @Data
 @Builder
